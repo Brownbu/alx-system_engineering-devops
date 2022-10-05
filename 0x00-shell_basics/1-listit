@@ -1,4 +1,4 @@
 #!/bin/bash
-0-current_working_directory%j2
+0-current_working_directory j2
 1-listit
 README.md
